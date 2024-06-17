@@ -120,5 +120,5 @@ but maybe for large part of cases
 
 
 
-![explorer icon](https://youtu.be/7zh5wbO6SDo)
-![fido2](https://youtu.be/jmpCCqfSjao)
+[explorer icon](https://youtu.be/7zh5wbO6SDo)
+[fido2](https://youtu.be/jmpCCqfSjao)
