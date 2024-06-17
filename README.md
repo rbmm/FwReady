@@ -120,5 +120,5 @@ but maybe for large part of cases
 
 
 
-[![IMAGE ALT TEXT HERE](Untitled.png)](https://youtu.be/7zh5wbO6SDo)
-[![IMAGE ALT TEXT HERE](Untitled4.png)](https://youtu.be/jmpCCqfSjao)
+![explorer icon](https://youtu.be/7zh5wbO6SDo)
+![fido2](https://youtu.be/jmpCCqfSjao)
