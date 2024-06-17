@@ -101,9 +101,9 @@ here exist such function
 ```
 void FwDynDataPublishNetworkChangeReadyState(BOOL bReady)
 {
-	static const WNF_STATE_NAME WNF_WFAS_FIREWALL_NETWORK_CHANGE_READY = { 0xa3bc0875, 0x1287083a };
-	RtlPublishWnfStateData(WNF_WFAS_FIREWALL_NETWORK_CHANGE_READY, 0, &bReady, sizeof(bReady), 0);
-	//NtUpdateWnfStateData(&WNF_WFAS_FIREWALL_NETWORK_CHANGE_READY, &bReady, sizeof(bReady), 0, 0, 0, 0);
+  static const WNF_STATE_NAME WNF_WFAS_FIREWALL_NETWORK_CHANGE_READY = { 0xa3bc0875, 0x1287083a };
+  RtlPublishWnfStateData(WNF_WFAS_FIREWALL_NETWORK_CHANGE_READY, 0, &bReady, sizeof(bReady), 0);
+  //NtUpdateWnfStateData(&WNF_WFAS_FIREWALL_NETWORK_CHANGE_READY, &bReady, sizeof(bReady), 0, 0, 0, 0);
 }
 ```
 but i my system no any firewalls. i very strong hate them.
@@ -118,7 +118,10 @@ probably this will be not a solution for all such problems (may be some another 
 but maybe for large part of cases
 
 
+2 my demo videos from youtube:
 
+[![explorer](11.png)](https://youtu.be/7zh5wbO6SDo)
 
-[explorer icon](https://youtu.be/7zh5wbO6SDo)
-[fido2](https://youtu.be/jmpCCqfSjao)
+--------------------
+
+[![FIDO2](22.png)](https://youtu.be/jmpCCqfSjao)
