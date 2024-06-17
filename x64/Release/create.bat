@@ -1,0 +1,1 @@
+sc create FwReady binPath="%~dp0FwReady.exe" start=demand depend=netprofm
